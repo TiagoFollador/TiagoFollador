@@ -2,7 +2,7 @@
 
 **Full Stack Software Engineer focused on TypeScript, APIs, integrations, and scalable web systems.**
 
-I work across backend and frontend, with stronger focus on API design, system integration, performance improvements, and maintainable web applications. My current professional work includes logistics systems, messaging/ticketing flows, WhatsApp/email integrations, GraphQL services, and backend refactoring.
+I work across backend and frontend, with a stronger focus on API design, system integration, performance improvements, and maintainable web applications. My current professional work includes logistics systems, messaging/ticketing flows, WhatsApp/email integrations, GraphQL services, and backend refactoring.
 
 > PT-BR: Engenheiro de Software Full Stack com foco em TypeScript, APIs, integrações, performance e sistemas web escaláveis.
 
@@ -80,5 +80,5 @@ I am currently strengthening my foundation in architecture, cloud, testing, and 
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoFollador&show_icons=true&hide_title=true&count_private=true)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFollador&layout=compact)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoFollador&show_icons=true&hide_title=true&count_private=true&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFollador&layout=compact&hide_title=true&theme=dark)
