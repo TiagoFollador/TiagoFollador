@@ -80,5 +80,7 @@ I am currently strengthening my foundation in architecture, cloud, testing, and 
 
 ## GitHub stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=TiagoFollador&show_icons=true&hide_title=true&count_private=true&theme=dark)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=TiagoFollador&layout=compact&hide_title=true&theme=dark)
+<div align="center">
+  <img src="https://YOUR_VERCEL_URL/api?username=TiagoFollador&show_icons=true&hide_title=true&count_private=true&include_all_commits=true&theme=dark" />
+  <img src="https://YOUR_VERCEL_URL/api/top-langs/?username=TiagoFollador&layout=compact&hide_title=true&langs_count=8&size_weight=0.5&count_weight=0.5&theme=dark" />
+</div>
